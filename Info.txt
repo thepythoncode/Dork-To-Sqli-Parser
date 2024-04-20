@@ -1,0 +1,5 @@
+Dork To Sqli Parser
+
+This tool will grab sqli based url from your dork list.For example you have a list of dork in a txt file and you want to grab all the urls that are sqli based.
+
+If you want to buy this tool contact me via telegram @alexrony21
